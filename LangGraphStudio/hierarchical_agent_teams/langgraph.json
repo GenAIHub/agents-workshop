@@ -1,0 +1,9 @@
+{
+  "dependencies": ["./my_agent"],
+  "graphs": {
+    "Parent_Agent": "./my_agent/agent.py:super_graph",
+    "Research_Team": "./my_agent/agent.py:research_graph",
+    "PaperWriting_Team": "./my_agent/agent.py:authoring_graph"
+  },
+  "env": ".env"
+}

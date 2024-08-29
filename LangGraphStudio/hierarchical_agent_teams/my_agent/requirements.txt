@@ -1,0 +1,9 @@
+langchain-core
+langchain-community
+langchain-openai
+langchain-experimental
+langgraph
+beautifulsoup4
+termcolor
+python-dotenv
+matplotlib
